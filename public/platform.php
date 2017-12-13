@@ -15,9 +15,9 @@
     <?php
 
         switch($pg){
-            case md5('blank'):
-                include ("blank/platform.php");
-            break;
+            // case md5('blank'):
+            //     include ("blank/platform.php");
+            // break;
             default:
                 include ("dashboard/platform.php");
             break;

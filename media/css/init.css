@@ -1,26 +1,26 @@
 /* Bootstrap */
-@import url('bootstrap.min.css');
+@import url('bootstrap.css');
 
 /* Core */
-@import url('core.css');
+@import url('font-awesome.min.css');
 
 /* Components */
-@import url('components.css');
+@import url('animate.css');
 
 /* Menu */
-@import url('menu.css');
+@import url('lightbox.css');
 
 /* Pages */
-@import url('pages.css');
+@import url('style.css');
 
 /* Icons */
-@import url('icons.css');
+@import url('media.css');
 
 /* Responsive */
-@import url('responsive.css');
+@import url('animate.css');
 
 /* Morris */
-@import url('media/plugins/morris/morris.css');
+/*@import url('media/plugins/morris/morris.css');*/
 
 /* Fonts */
-@import url('fira-fonts.css');
+/*@import url('fira-fonts.css');*/

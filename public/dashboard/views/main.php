@@ -1,555 +1,368 @@
-<!-- Start content -->
-<div class="content">
-    <div class="container">
+<!-- start section home -->
+   <section class="home" id="home">
+       <div class="overlay">
+           <div class="title">
+               <h1><span>Hello! I Am</span><br> Samir Afolabi</h1>
+       <h2 class="typed">I Am<span class="element"></span></h2>
+               <a href="#"><i class="fa fa-facebook"></i></a>
+               <a href="#"><i class="fa fa-twitter"></i></a>
+               <a href="#"><i class="fa fa-google-plus"></i></a>
+               <a href="#"><i class="fa fa-instagram"></i></a>
+           </div>
+       </div>
+   </section>
+   <!-- end section home -->
 
+   <!-- start section about -->
+   <section class="about" id="about">
+       <div class="container">
+           <div class="row">
+               <div class="col-sm-5">
+                   <div class="image">
+                       <img alt="about" class="img-responsive" src="media/img/pexels-photo-614810.jpg">
+                   </div>
+               </div>
+               <div class="col-sm-7">
+                   <div class="words">
+           <h1 class="heading">About <span>Me</span></h1>
+                       <p>An enthusiastic, dedicated and versatile young person with an outstanding academic background and excellent attitude to work. Highly motivated, reliable with experience of working in an office junior role for an IT solutions enterprise. Has a well-structured career in the web and software development services sector. Also really good in Graphic Design.</p>
 
-        <div class="row">
+                       <a href="#">Contact me</a>
+           <a href="#">Download my CV</a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section about -->
 
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
+ <!-- start section skills -->
+ <section class="skills">
+   <div class="container">
+     <h1 class="heading"><span>My</span> Skills</h1>
+     <div class="row">
+               <div class="col-sm-6">
+                   <div class="item">
+           <h5>Web Design</h5>
+           <div class="skills-progress"><span data-value='95%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Graphic Design</h5>
+           <div class="skills-progress"><span data-value='85%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Web Development</h5>
+           <div class="skills-progress"><span data-value='90%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Photography</h5>
+           <div class="skills-progress"><span data-value='80%'></span></div>
+         </div>
+               </div>
+       <div class="col-sm-6">
+                   <div class="item">
+           <h5>Html / Css</h5>
+           <div class="skills-progress"><span data-value='95%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Wordpress</h5>
+           <div class="skills-progress"><span data-value='90%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Php</h5>
+           <div class="skills-progress"><span data-value='80%'></span></div>
+         </div>
+         <div class="item">
+           <h5>Joomla</h5>
+           <div class="skills-progress"><span data-value='85%'></span></div>
+         </div>
+               </div>
+           </div>
+   </div>
+ </section>
+ <!-- end section skills -->
 
-                    <h4 class="header-title m-t-0 m-b-30">Total Revenue</h4>
+   <!-- start section services -->
+   <section class="services" id="services">
+       <div class="container">
+           <h1 class="heading"><span>My</span> Services</h1>
+           <div class="row">
+               <div class="col-md-4 col-sm-6">
+                   <div class="item wow fadeInUp" data-wow-delay="0.6s">
+                       <i class="fa fa-code"></i>
+                       <div class="center">
+                           <h3>Development</h3>
+                       </div>
+                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <div class="item wow fadeInUp" data-wow-delay="1s">
+                       <i class="fa fa-camera"></i>
+                       <div class="center">
+                           <h3>Photography</h3>
+                       </div>
+                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6">
+                   <div class="item wow fadeInUp" data-wow-delay="1.4s">
+                       <i class="fa fa-life-buoy"></i>
+                       <div class="center">
+                           <h3>Support</h3>
+                       </div>
+                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section services -->
 
-                    <div class="widget-chart-1">
-                        <div class="widget-chart-box-1">
-                            <input data-plugin="knob" data-width="80" data-height="80" data-fgColor="#f05050 " data-bgColor="#F9B9B9" value="58" data-skin="tron"
-                                data-angleOffset="180" data-readOnly=true data-thickness=".15" />
+   <!-- start section numbers -->
+   <section class="numbers">
+       <div class="overlay">
+           <div class="container">
+               <div class="row">
+                   <div class="col-md-3 col-sm-6">
+                       <div class="item">
+                           <i class="fa fa-users"></i>
+                           <h2 class="counter">633</h2>
+                           <p>Clients</p>
+                       </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6">
+                       <div class="item">
+                           <i class="fa fa-heart"></i>
+                           <h2 class="counter">368</h2>
+                           <p>Likes</p>
+                       </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6">
+                       <div class="item">
+                           <i class="fa fa-trophy"></i>
+                           <h2 class="counter">221</h2>
+                           <p>Awards</p>
+                       </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6">
+                       <div class="item">
+                           <i class="fa fa-download"></i>
+                           <h2 class="counter">368</h2>
+                           <p>Download</p>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section numbers -->
+
+   <!-- start section my-portfolio -->
+   <section class="my-portfolio" id="portfolio">
+       <div class="container">
+           <h1 class="heading"><span>My</span> Work</h1>
+           <ul class="work_control">
+              <li class="selected filter" data-filter="all">All</li>
+              <li  class="filter" data-filter=".Graphic">Graphic</li>
+              <li  class="filter" data-filter=".design">Design</li>
+              <li  class="filter" data-filter=".developement">Developement</li>
+           </ul>
+           <div class="row bbbb" id="change" >
+               <div class="col-md-4 col-sm-6 col-xs-12  mix Graphic">
+                   <div class="work-area">
+                       <div class="image">
+                           <img alt="image" src="media/img/project%201.jpg">
+                       </div>
+                       <a href="media/img/project%201.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+       </div>
+       <div class="col-md-4 col-sm-6 col-xs-12 mix developement">
+                   <div class="work-area">
+                       <div class="image">
+                            <img alt="image" src="media/img/project%203.jpg">
+                       </div>
+                       <a href="media/img/project%203.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6 col-xs-12 mix design">
+                   <div class="work-area">
+                        <div class="image">
+                            <img alt="image" src="media/img/project%206.jpg">
                         </div>
+                        <a href="media/img/project%206.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6 col-xs-12 mix design">
+                   <div class="work-area">
+                       <div class="image">
+                           <img alt="image" src="media/img/project%204.jpg">
+                       </div>
+                       <a href="media/img/project%204.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6 col-xs-12 mix developement">
+                   <div class="work-area">
+                       <div class="image">
+                           <img alt="image" src="media/img/project%205.jpg">
+                       </div>
+                       <a href="media/img/project%205.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6 col-xs-12 mix developement">
+                   <div class="work-area">
+                       <div class="image">
+                           <img alt="image" src="media/img/project%202.jpg">
+                       </div>
+                       <a href="media/img/project%202.jpg" data-lightbox="image" class="overlay">
+                           <div class="tok">
+               <p>Lorem ipsum dolor sit amet</p>
+               <span>Lorem Ipsum</span>
+                           </div>
+                       </a>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section my-portfolio -->
 
-                        <div class="widget-detail-1">
-                            <h2 class="p-t-10 m-b-0"> 256 </h2>
-                            <p class="text-muted">Revenue today</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
+   <!--start section subscribe -->
+   <section class="subscribe">
+   <div class="overlay">
+     <div class="container">
+       <h2>I am aviable for freelancing</h2>
+       <a href="#">Hire Me</a>
+     </div>
+   </div>
+   </section>
+   <!--start section subscribe -->
 
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
+   <!-- start section blog -->
+   <section class="blog" id="blog">
+       <div class="container">
+           <h1 class="heading"><span>My</span> News</h1>
+           <div class="row">
+               <div class="col-sm-4">
+                   <div class="blog-area">
+                       <div class="image">
+                           <img class="img-responsive" src="media/img/blog%203.jpg" alt="blog">
+           </div>
+                       <div class="details">
+             <p class="tag"><i class="fa fa-tag"></i> Wordpress <span><i class="fa fa-calendar"></i> 4 November, 2017</span></p>
+                           <a href="#"><h4>A business is an organization</h4></a>
+                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                           <a class="a-btn" href="#">Read more <i class="fa fa-angle-double-right"></i></a>
+                       </div>
+                  </div>
+              </div>
+               <div class="col-sm-4">
+                   <div class="blog-area">
+                       <div class="image">
+                           <img class="img-responsive" src="media/img/blog%202.jpg" alt="blog">
+           </div>
+                       <div class="details">
+             <p class="tag"><i class="fa fa-tag"></i> Web Design <span><i class="fa fa-calendar"></i> 4 November, 2017</span> </p>
+                           <a href="#"><h4>A business is an organization</h4></a>
+                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                           <a class="a-btn" href="#">Read more <i class="fa fa-angle-double-right"></i></a>
+                       </div>
+                  </div>
+              </div>
+               <div class="col-sm-4">
+                   <div class="blog-area">
+                       <div class="image">
+                           <img class="img-responsive" src="media/img/blog%201.jpg" alt="blog">
+           </div>
+                       <div class="details">
+              <p class="tag"><i class="fa fa-tag"></i> Web Design <span><i class="fa fa-calendar"></i> 4 November, 2017</span></p>
+                            <a href="#"><h4>A business is an organization</h4></a>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                            <a class="a-btn" href="#">Read more <i class="fa fa-angle-double-right"></i></a>
+                       </div>
+         </div>
+              </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section blog -->
 
-                    <h4 class="header-title m-t-0 m-b-30">Sales Analytics</h4>
-
-                    <div class="widget-box-2">
-                        <div class="widget-detail-2">
-                            <span class="badge badge-success pull-left m-t-20">32%
-                                <i class="zmdi zmdi-trending-up"></i>
-                            </span>
-                            <h2 class="m-b-0"> 8451 </h2>
-                            <p class="text-muted m-b-25">Revenue today</p>
-                        </div>
-                        <div class="progress progress-bar-success-alt progress-sm m-b-0">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100"
-                                style="width: 77%;">
-                                <span class="sr-only">77% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <h4 class="header-title m-t-0 m-b-30">Statistics</h4>
-
-                    <div class="widget-chart-1">
-                        <div class="widget-chart-box-1">
-                            <input data-plugin="knob" data-width="80" data-height="80" data-fgColor="#ffbd4a" data-bgColor="#FFE6BA" value="80" data-skin="tron"
-                                data-angleOffset="180" data-readOnly=true data-thickness=".15" />
-                        </div>
-                        <div class="widget-detail-1">
-                            <h2 class="p-t-10 m-b-0"> 4569 </h2>
-                            <p class="text-muted">Revenue today</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <h4 class="header-title m-t-0 m-b-30">Daily Sales</h4>
-
-                    <div class="widget-box-2">
-                        <div class="widget-detail-2">
-                            <span class="badge badge-pink pull-left m-t-20">32%
-                                <i class="zmdi zmdi-trending-up"></i>
-                            </span>
-                            <h2 class="m-b-0"> 158 </h2>
-                            <p class="text-muted m-b-25">Revenue today</p>
-                        </div>
-                        <div class="progress progress-bar-pink-alt progress-sm m-b-0">
-                            <div class="progress-bar progress-bar-pink" role="progressbar" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100" style="width: 77%;">
-                                <span class="sr-only">77% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-        </div>
-        <!-- end row -->
-
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <h4 class="header-title m-t-0">Daily Sales</h4>
-
-                    <div class="widget-chart text-center">
-                        <div id="morris-donut-example" style="height: 245px;"></div>
-                        <ul class="list-inline chart-detail-list m-b-0">
-                            <li>
-                                <h5 style="color: #ff8acc;">
-                                    <i class="fa fa-circle m-r-5"></i>Series A</h5>
-                            </li>
-                            <li>
-                                <h5 style="color: #5b69bc;">
-                                    <i class="fa fa-circle m-r-5"></i>Series B</h5>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-4">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <h4 class="header-title m-t-0">Statistics</h4>
-                    <div id="morris-bar-example" style="height: 280px;"></div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-4">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <h4 class="header-title m-t-0">Total Revenue</h4>
-                    <div id="morris-line-example" style="height: 280px;"></div>
-                </div>
-            </div>
-            <!-- end col -->
-
-        </div>
-        <!-- end row -->
-
-
-        <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box widget-user">
-                    <div>
-                        <img src="media/img/users/avatar-3.jpg" class="img-responsive img-circle" alt="user">
-                        <div class="wid-u-info">
-                            <h4 class="m-t-0 m-b-5 font-600">Chadengle</h4>
-                            <p class="text-muted m-b-5 font-13">coderthemes@gmail.com</p>
-                            <small class="text-warning">
-                                <b>Admin</b>
-                            </small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box widget-user">
-                    <div>
-                        <img src="media/img/users/avatar-2.jpg" class="img-responsive img-circle" alt="user">
-                        <div class="wid-u-info">
-                            <h4 class="m-t-0 m-b-5 font-600"> Michael Zenaty</h4>
-                            <p class="text-muted m-b-5 font-13">coderthemes@gmail.com</p>
-                            <small class="text-custom">
-                                <b>Support Lead</b>
-                            </small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box widget-user">
-                    <div>
-                        <img src="media/img/users/avatar-1.jpg" class="img-responsive img-circle" alt="user">
-                        <div class="wid-u-info">
-                            <h4 class="m-t-0 m-b-5 font-600">Stillnotdavid</h4>
-                            <p class="text-muted m-b-5 font-13">coderthemes@gmail.com</p>
-                            <small class="text-success">
-                                <b>Designer</b>
-                            </small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="card-box widget-user">
-                    <div>
-                        <img src="media/img/users/avatar-10.jpg" class="img-responsive img-circle" alt="user">
-                        <div class="wid-u-info">
-                            <h4 class="m-t-0 m-b-5 font-600">Tomaslau</h4>
-                            <p class="text-muted m-b-5 font-13">coderthemes@gmail.com</p>
-                            <small class="text-info">
-                                <b>Developer</b>
-                            </small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-        </div>
-        <!-- end row -->
-
-
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <h4 class="header-title m-t-0 m-b-30">Inbox</h4>
-
-                    <div class="inbox-widget nicescroll" style="height: 315px;">
-                        <a href="#">
-                            <div class="inbox-item">
-                                <div class="inbox-item-img">
-                                    <img src="media/img/users/avatar-1.jpg" class="img-circle" alt="">
+   <!-- start section contact -->
+   <section id="contact" class="contact">
+       <div class="container">
+           <h1 class="heading">Contact <span>Me</span></h1>
+     <div class="row">
+               <div class="col-sm-4">
+                   <div class="item">
+                       <i class="fa fa-phone"></i>
+                       <p>+233 (0)20 9521 141</p>
+                   </div>
+               </div>
+               <div class="col-sm-4">
+                   <div class="item">
+                       <i class="fa fa-envelope"></i>
+                       <p>safolabi5395@gmail.com</p>
+                   </div>
+               </div>
+               <div class="col-sm-4">
+                   <div class="item">
+                       <i class="fa fa-map-marker"></i>
+                       <p>Osu - Accra, Ghana</p>
+                   </div>
+               </div>
+           </div>
+           <div class="row">
+               <div class="col-md-offset-2 col-md-8 col-sm-12">
+                   <div class="contact-form">
+                       <form id='contact-form' method='post'><input type='hidden' name='form-name' value='contact-form' />
+                            <div class="row">
+                                <div class="form-group col-md-12">
+                                    <input type="text" name="name" class="form-control"  placeholder="Name" required="required">
                                 </div>
-                                <p class="inbox-item-author">Chadengle</p>
-                                <p class="inbox-item-text">Hey! there I'm available...</p>
-                                <p class="inbox-item-date">13:40 PM</p>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="inbox-item">
-                                <div class="inbox-item-img">
-                                    <img src="media/img/users/avatar-2.jpg" class="img-circle" alt="">
+                                <div class="form-group col-sm-6">
+                                    <input type="email" name="email" class="form-control"  placeholder="Email" required="required">
                                 </div>
-                                <p class="inbox-item-author">Tomaslau</p>
-                                <p class="inbox-item-text">I've finished it! See you so...</p>
-                                <p class="inbox-item-date">13:34 PM</p>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="inbox-item">
-                                <div class="inbox-item-img">
-                                    <img src="media/img/users/avatar-3.jpg" class="img-circle" alt="">
+                                <div class="form-group col-sm-6">
+                                    <input type="text" name="subject" class="form-control"  placeholder="subject" required="required">
                                 </div>
-                                <p class="inbox-item-author">Stillnotdavid</p>
-                                <p class="inbox-item-text">This theme is awesome!</p>
-                                <p class="inbox-item-date">13:17 PM</p>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="inbox-item">
-                                <div class="inbox-item-img">
-                                    <img src="media/img/users/avatar-4.jpg" class="img-circle" alt="">
+                                <div class="form-group col-md-12">
+                                    <textarea rows="6" name="message" class="form-control"  placeholder="Your Message" required="required"></textarea>
                                 </div>
-                                <p class="inbox-item-author">Kurafire</p>
-                                <p class="inbox-item-text">Nice to meet you</p>
-                                <p class="inbox-item-date">12:20 PM</p>
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="inbox-item">
-                                <div class="inbox-item-img">
-                                    <img src="media/img/users/avatar-5.jpg" class="img-circle" alt="">
+                                <div class="col-md-12">
+                                    <div>
+                                        <input type="submit" value="submit now" name="submit" title="Submit Your Message!">
+                                    </div>
                                 </div>
-                                <p class="inbox-item-author">Shahedk</p>
-                                <p class="inbox-item-text">Hey! there I'm available...</p>
-                                <p class="inbox-item-date">10:15 AM</p>
                             </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-            <div class="col-lg-8">
-                <div class="card-box">
-                    <div class="dropdown pull-right">
-                        <a href="#" class="dropdown-toggle card-drop" data-toggle="dropdown" aria-expanded="false">
-                            <i class="zmdi zmdi-more-vert"></i>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <h4 class="header-title m-t-0 m-b-30">Latest Projects</h4>
-
-                    <div class="table-responsive">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>#</th>
-                                    <th>Project Name</th>
-                                    <th>Start Date</th>
-                                    <th>Due Date</th>
-                                    <th>Status</th>
-                                    <th>Assign</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>1</td>
-                                    <td>Adminto Admin v1</td>
-                                    <td>01/01/2016</td>
-                                    <td>26/04/2016</td>
-                                    <td>
-                                        <span class="label label-danger">Released</span>
-                                    </td>
-                                    <td>Coderthemes</td>
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Adminto Frontend v1</td>
-                                    <td>01/01/2016</td>
-                                    <td>26/04/2016</td>
-                                    <td>
-                                        <span class="label label-success">Released</span>
-                                    </td>
-                                    <td>Adminto admin</td>
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Adminto Admin v1.1</td>
-                                    <td>01/05/2016</td>
-                                    <td>10/05/2016</td>
-                                    <td>
-                                        <span class="label label-pink">Pending</span>
-                                    </td>
-                                    <td>Coderthemes</td>
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>Adminto Frontend v1.1</td>
-                                    <td>01/01/2016</td>
-                                    <td>31/05/2016</td>
-                                    <td>
-                                        <span class="label label-purple">Work in Progress</span>
-                                    </td>
-                                    <td>Adminto admin</td>
-                                </tr>
-                                <tr>
-                                    <td>5</td>
-                                    <td>Adminto Admin v1.3</td>
-                                    <td>01/01/2016</td>
-                                    <td>31/05/2016</td>
-                                    <td>
-                                        <span class="label label-warning">Coming soon</span>
-                                    </td>
-                                    <td>Coderthemes</td>
-                                </tr>
-
-                                <tr>
-                                    <td>6</td>
-                                    <td>Adminto Admin v1.3</td>
-                                    <td>01/01/2016</td>
-                                    <td>31/05/2016</td>
-                                    <td>
-                                        <span class="label label-primary">Coming soon</span>
-                                    </td>
-                                    <td>Adminto admin</td>
-                                </tr>
-
-                                <tr>
-                                    <td>7</td>
-                                    <td>Adminto Admin v1.3</td>
-                                    <td>01/01/2016</td>
-                                    <td>31/05/2016</td>
-                                    <td>
-                                        <span class="label label-primary">Coming soon</span>
-                                    </td>
-                                    <td>Adminto admin</td>
-                                </tr>
-
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-            <!-- end col -->
-
-        </div>
-        <!-- end row -->
-
-    </div>
-    <!-- container -->
-
-</div>
-<!-- content -->
+                       </form>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </section>
+   <!-- end section contact -->

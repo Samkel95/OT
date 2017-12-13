@@ -1,41 +1,26 @@
-<footer class="footer text-right">© 2017 CSSPS</footer>
+<div class="social-icon-div">
+    <a href="#"><i class="fa fa-facebook"></i></a>
+    <a href="#"><i class="fa fa-twitter"></i></a>
+    <a href="#"><i class="fa fa-google-plus"></i></a>
+    <a href="#"><i class="fa fa-instagram"></i></a>
+    <p>Copyright © 2017 AFOLABI, All Rights Reserved.</p>
 </div>
+
+<!-- Start Scroll To Top -->
+<div id="scroll-top">
+    <i class="fa fa-long-arrow-up"></i>
 </div>
-        <!-- END wrapper -->
+<!-- end Scroll To Top -->
 
-
-
-        <script>
-            var resizefunc = [];
-        </script>
-
-        <!-- jQuery  -->
         <script src="media/js/jquery.min.js"></script>
+	      <script src="media/js/jquery.counterup.min.js"></script>
+        <script src="media/js/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+        <script src="media/js/typed.js"></script>
         <script src="media/js/bootstrap.min.js"></script>
-        <script src="media/js/detect.js"></script>
-        <script src="media/js/fastclick.js"></script>
-        <script src="media/js/jquery.blockUI.js"></script>
-        <script src="media/js/waves.js"></script>
-        <script src="media/js/jquery.nicescroll.js"></script>
-        <script src="media/js/jquery.slimscroll.js"></script>
-        <script src="media/js/jquery.scrollTo.min.js"></script>
-
-        <!-- KNOB JS -->
-        <!--[if IE]>
-        <script type="text/javascript" src="media/plugins/jquery-knob/excanvas.js"></script>
-        <![endif]-->
-        <script src="media/plugins/jquery-knob/jquery.knob.js"></script>
-
-        <!--Morris Chart-->
-		<script src="media/plugins/morris/morris.min.js"></script>
-		<script src="media/plugins/raphael/raphael-min.js"></script>
-
-        <!-- Dashboard init -->
-        <script src="media/pages/jquery.dashboard.js"></script>
-
-        <!-- App js -->
-        <script src="media/js/jquery.core.js"></script>
-        <script src="media/js/jquery.app.js"></script>
-
+		    <script src="media/js/lightbox.js"></script>
+        <script src="media/js/mixitup.js"></script>
+        <script src="media/js/custom.js"></script>
+        <script src="media/js/wow.min.js"></script>
+        <script>new WOW().init();</script>
     </body>
 </html>
