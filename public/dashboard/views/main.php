@@ -56,26 +56,26 @@
          </div>
          <div class="item">
            <h5>Photography</h5>
-           <div class="skills-progress"><span data-value='80%'></span></div>
+           <div class="skills-progress"><span data-value='25%'></span></div>
          </div>
                </div>
        <div class="col-sm-6">
                    <div class="item">
            <h5>Html / Css</h5>
-           <div class="skills-progress"><span data-value='95%'></span></div>
+           <div class="skills-progress"><span data-value='98%'></span></div>
          </div>
          <div class="item">
-           <h5>Wordpress</h5>
-           <div class="skills-progress"><span data-value='90%'></span></div>
-         </div>
-         <div class="item">
-           <h5>Php</h5>
+           <h5>Ionic Framework</h5>
            <div class="skills-progress"><span data-value='80%'></span></div>
          </div>
          <div class="item">
+           <h5>Php</h5>
+           <div class="skills-progress"><span data-value='95%'></span></div>
+         </div>
+         <!-- <div class="item">
            <h5>Joomla</h5>
            <div class="skills-progress"><span data-value='85%'></span></div>
-         </div>
+         </div> -->
                </div>
            </div>
    </div>
@@ -127,14 +127,14 @@
                    <div class="col-md-3 col-sm-6">
                        <div class="item">
                            <i class="fa fa-users"></i>
-                           <h2 class="counter">633</h2>
+                           <h2 class="counter">3</h2>
                            <p>Clients</p>
                        </div>
                    </div>
                    <div class="col-md-3 col-sm-6">
                        <div class="item">
                            <i class="fa fa-heart"></i>
-                           <h2 class="counter">368</h2>
+                           <h2 class="counter">12</h2>
                            <p>Likes</p>
                        </div>
                    </div>
