@@ -5,9 +5,9 @@
 ###########################################
 **/
 $engine	  = "mysqli";
-$server   = "192.168.15.62";
-$password = "akegenius";
-$username = "acker";
+$server   = "localhost";
+$password = "";
+$username = "root";
 $port     = "3306";
 $database = "cssps";
 ?>
